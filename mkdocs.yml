@@ -63,9 +63,9 @@ extra:
       link: 'https://www.youtube.com/playlist?list=PLR9nK3mnD-OXgMjDBdjWUTRia89oixBhx'
     - icon: 'fontawesome/solid/link'
       link: 'https://aka.ms/m365pnp'
-repo_url: https://github.com/pnp/powerplatform-samples
+repo_url: https://github.com/GradyD/fedsolutions-samples
 edit_uri: tree/Docs/docs
-site_url: https://pnp.github.io/powerplatform-samples/
+site_url: https://gradyd.github.io/fedsolutions-samples/
 # favicon: assets/favicon.png
 # site_favicon: favicon.ico
 # dev_addr: '127.0.0.1:443'
