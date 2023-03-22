@@ -4,7 +4,7 @@
 var jsonPath = "https://pnp.github.io/powerplatform-samples/samples.json";
 if (window.location.host.toLowerCase() !== "pnp.github.io") {
   // When serving locally there is no /teams-dev-samples in the path
-  jsonPath = window.location.origin + "/samples.json"
+  jsonPath = window.location.href + "/samples.json"
 }
 console.log(`Reading samples from ${jsonPath}`);
 
