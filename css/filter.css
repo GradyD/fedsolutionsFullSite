@@ -71,7 +71,7 @@ body {
 
 @media screen and (min-width: 769px) {
   .sample-thumbnail, .grid-sizer {
-    width: 33.333%;
+    width: 25%;
   }
 }
 
@@ -221,3 +221,8 @@ body {
   html {
     overflow-y: scroll;
   }
+}
+
+.md-main__inner {
+  max-width: 100%;
+}
