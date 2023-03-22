@@ -8,26 +8,26 @@ plugins:
     #     redirect_maps:
     #       'samples/all.md': 'index.md'
 
-nav:
-  - Samples:
-    - All: index.md
-    - Power Fx: samples/powerfx.md
-    - Power Apps: samples/powerapps.md
-    - Power Automate: samples/powerautomate.md
-    - Power Virtual Agents: samples/powerva.md
-    - Power BI: samples/powerbi.md
-  - Getting started:
-    - Using the samples: gettingstarted/index.md
-    - Troubleshooting: gettingstarted/troubleshooting.md
-  - Contributing:
-    - Contribution guide: contributing/index.md
-    - Submitting an issue or suggestion: contributing/issues.md
-    - Forking?: contributing/forking.md
-    - Add a sample: contributing/sample.md
-    - Submitting a pull request: contributing/pullrequest.md
+# nav:
+#   - Samples:
+#     - All: index.md
+#     - Power Fx: samples/powerfx.md
+#     - Power Apps: samples/powerapps.md
+#     - Power Automate: samples/powerautomate.md
+#     - Power Virtual Agents: samples/powerva.md
+#     - Power BI: samples/powerbi.md
+#   - Getting started:
+#     - Using the samples: gettingstarted/index.md
+#     - Troubleshooting: gettingstarted/troubleshooting.md
+#   - Contributing:
+#     - Contribution guide: contributing/index.md
+#     - Submitting an issue or suggestion: contributing/issues.md
+#     - Forking?: contributing/forking.md
+#     - Add a sample: contributing/sample.md
+#     - Submitting a pull request: contributing/pullrequest.md
 theme:
-  # name: 'material'
-  name: 'mkdocs'
+  name: 'material'
+  # name: 'mkdocs'
   custom_dir: 'custom_theme'
   palette:
     primary: 'pnp'
